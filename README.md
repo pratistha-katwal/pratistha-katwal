@@ -10,15 +10,15 @@ So basically, you'll find me behind a laptop more often than in a lab coat. 😉
 
 ---
 
-## Projects I’ve Worked On
+## 🧩 Projects I’ve Worked On
 
-📍 ** Household-Level Flood Risk Assessment @ NAXA Pvt. Ltd.**  
+📍 **Household-Level Flood Risk Assessment @ NAXA Pvt. Ltd.**  
 As a Former Research Associate, I contributed to a large-scale flood risk assessment of over **11,000 households** in flood-prone areas of Nepal and Bangladesh.  
-I:
-- Analyzed household-level vulnerability and coping capacity  
-- Worked with flood hazard maps and utilized the **INFORM Risk Model** for risk assessment
-- Helped develop **Household-level disaster risk management plans**  
-- Supported early warning systems through risk monitoring and timely risk communication.
+I contributed to:
+- Analyzing household-level vulnerability and coping capacity  
+- Working with flood hazard maps and the **INFORM Risk Model** for risk assessment
+- Developing **Household-level disaster risk management plans**  
+- Supporting early warning systems through risk monitoring and timely risk communication.
 
 📱 **Structural Damage & Loss Prediction from Flooding App**  
 Built a small ML-based prototype that predicts **structural damage and loss** based on the level and duration of flooding.  
@@ -33,7 +33,8 @@ Explored how NDVI, land surface temperature (LST), and land cover data can be us
 - Machine learning for environmental applications
 - Disaster risk reduction  
 - GIS and remote sensing   
-- Climate resilience through tech   
+- Climate resilience through tech
+- Research & innovation 
 - Painting, trekking & occasional yoga 🧘‍♀️🎨🏔️
 
 ---
