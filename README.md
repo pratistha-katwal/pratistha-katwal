@@ -2,11 +2,7 @@
 
 It’s nice to meet you!
 
-I’m Pratistha Katwal, and I’m from Nepal 🇳🇵. I graduated with a degree in Environmental Science — so yes, I care a lot about the environment and believe in building a greener, safer world.
-
-Now, you might imagine me in a lab with flasks and funnels, trying to invent something to get rid of plastic waste (which, honestly, sounds fun). But my real passion lies elsewhere — working with **data**. Whether it’s geospatial data, satellite imagery, or survey responses, I love digging into it to find patterns, trends, and insights that can lead to real solutions to environmental problems.
-
-So basically, you'll find me behind a laptop more often than in a lab coat. 😉
+I’m Pratistha Katwal, and I’m from Nepal 🇳🇵. I graduated with a degree in Environmental Science — so yes, I care a lot about the environment and believe in building a greener, safer world. I enjoy working with **data**, whether it’s geospatial data, satellite imagery, or survey responses. I love digging into it to find patterns, trends, and insights that can lead to real solutions to environmental problems.
 
 ---
 
@@ -22,7 +18,7 @@ I contributed to:
 
 📱 **Structural Damage & Loss Prediction from Flooding App**  
 Built a small ML-based prototype that predicts **structural damage and loss** based on the level and duration of flooding.  
-Still improving it, but it's a fun mix of household data + machine learning!
+Still improving it, but it's a fun mix of household data + machine learning! 👉 [View the App](https://predictinglossanddamage-pratisthakatwal.streamlit.app/)
 
 🛰️ **Satellite & Remote Sensing Projects**  
 Explored how NDVI, land surface temperature (LST), and land cover data can be used to study the impact of roadside vegetation in regulating local temperature.
