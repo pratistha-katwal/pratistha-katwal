@@ -2,7 +2,7 @@
 
 It’s nice to meet you!
 
-I’m Pratistha Katwal, and I’m from Nepal 🇳🇵. I graduated with a degree in Environmental Science — so yes, I care a lot about the environment and believe in building a greener, safer world. I enjoy working with **data**, whether it’s geospatial data, satellite imagery, or survey responses. I love digging into it to find patterns, trends, and insights that can lead to real solutions to environmental problems.
+Hi! I’m Pratistha Katwal from Nepal 🇳🇵. I hold a degree in Environmental Science and have a passion for working with data—whether it’s geospatial datasets, satellite imagery, or survey responses. I’m now combining my love for the environment and data to uncover patterns and insights that drive meaningful, data-informed solutions to today’s environmental challenges.
 
 ---
 
